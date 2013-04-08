@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: eShop Languages plugin
+Plugin Name: eShop Languages
 Plugin URI: http://quirm.net
 Description: eShop custom plugin for storing language files.
-Version: 0.2
+Version: 0.1
 Author: Rich Pedley 
 Author URI: http://quirm.net/
  

@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=r
 Tags: eshop, translation, language
 Requires at least: 2.7
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag: 0.1
 
 Simple extension to eShop, providing translation files.
 
@@ -75,10 +75,14 @@ Any new or updated translation is much appreciated. Below are the basic steps yo
 
 Thanks for sharing your translation :)
 
+== Upgrade Notice ==
+
+First release. If you have your own translation installed in /eshop-languages/ please back it up before upgrading. Then, if your own translation is better/newer than the one inlcuded in this plugin, please consider sharing yours...
+ 
 
 == Changelog ==
 
-= 0.2 =
+= 0.1 =
 
 Date: 2013-04-08
 

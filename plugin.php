@@ -3,11 +3,11 @@
 Plugin Name: eShop Languages
 Plugin URI: http://quirm.net/forum/topic.php?id=2512
 Description: eShop custom plugin for storing language files.
-Version: 0.2
+Version: 0.3
 Author: Rich Pedley 
 Author URI: http://quirm.net/
  
-    Copyright 2010 R PEDLEY  (email : rich@quirm.net)
+    Copyright 2013 R PEDLEY  (email : rich@quirm.net)
  
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by

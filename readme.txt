@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=r
 Tags: eshop, translation, language
 Requires at least: 2.7
 Tested up to: 3.5
-Stable tag: 0.2
+Stable tag: 0.3
 
 Simple extension to eShop, providing translation files.
 
@@ -19,15 +19,16 @@ Translations in this files are done by other WordPress and eShop users and gener
 Marked with an * are in need of an update.
 
 - **Czech** * Author: [Jiří Štencek](http://www.c3studio.cz) eShop version: 6.2.10
-- **Dutch** - Author: [RA van Hagen](http://status301.net/) * eShop version: 6.3.9
+- **Dutch** - Author: [RA van Hagen](http://status301.net/) * eShop version: 6.3.10
 - **French** - Author: [Laurent Grabielle](http://www.eco2net.com/) * eShop version: 6.3.8
 - **German** * Author: [Peter Mueller](http://service.c-major.de/) * eShop version: 6.2.10
 - **Hungarian** * Author: [Viktor Farkas](http://wpsuli.info/wordpress-honlap-keszites/a-legjobb-webaruhaz-bovitmenyek/) * eShop version 6.?
 - **Italian** * Author: [Federico Porri](http://ThriftyItaly.com/) * eShop version: 6.?
 - **Russian** * Author: [Reverie](http://cpp.in.ua/) * eShop version: 6.2.8
 - **Spanish** - Author: [Frans Rehl](http://tendencia-social.cl/2012/09/24/ayuda-con-eshop-en-espanol/) * eShop version: 6.3
+- **Turkish** - Author: [Keremcan Büyüktaşkın](http://tendencia-social.cl/2012/09/24/ayuda-con-eshop-en-espanol/) * eShop version: 6.3.10 (front end only)
 
-**Included POT based on eShop version 6.3.9**
+**Included POT based on eShop version 6.3.10**
 
 = New translations =
 
@@ -78,11 +79,20 @@ First release. If you have your own translation installed in /eshop-languages/ p
 
 == Changelog ==
 
+= 0.3 =
+
+Date: 2013-05-17
+
+* New Turkish translation
+* Updated Dutch translation
+* Updated source POT file
+* Added PO files
+
 = 0.2 =
 
 Date: 2013-04-16
 
-Updated French and Dutch translations
+* Updated French and Dutch translations
 
 = 0.1 =
 

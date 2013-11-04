@@ -2,8 +2,9 @@
 /*
 Plugin Name: eShop Languages
 Plugin URI: http://quirm.net/forum/topic.php?id=2512
-Description: eShop custom plugin for storing language files.
-Version: 0.3
+Description: eShop custom plugin for storing language files. If you have your own translation installed in /eshop-languages/ please back it up before upgrading. Then, if your own translation is better/newer than the one inlcuded in this plugin, please consider sharing yours...
+
+Version: 0.4
 Author: Rich Pedley 
 Author URI: http://quirm.net/
  

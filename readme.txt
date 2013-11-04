@@ -3,8 +3,8 @@ Contributors: RavanH, elfin
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=ravanhagen%40gmail%2ecom&amp;item_name=eShop%20Languages&amp;item_number=1%2e0&amp;no_shipping=0&amp;tax=0&amp;bn=PP%2dDonationsBF&amp;charset=UTF%2d8
 Tags: eshop, translation, language
 Requires at least: 2.7
-Tested up to: 3.5
-Stable tag: 0.3
+Tested up to: 3.7
+Stable tag: 0.4
 
 Simple extension to eShop, providing translation files.
 
@@ -19,6 +19,7 @@ Translations in this files are done by other WordPress and eShop users and gener
 Marked with an * are in need of an update.
 
 - **Czech** * Author: [Jiří Štencek](http://www.c3studio.cz) eShop version: 6.2.10
+- **Chinese (Simplified)** * Author: [Siyuan Tang](http://www.mopbear.com) eShop version: 6.3.10
 - **Dutch** - Author: [RA van Hagen](http://status301.net/) * eShop version: 6.3.10
 - **French** - Author: [Laurent Grabielle](http://www.eco2net.com/) * eShop version: 6.3.8
 - **German** * Author: [Peter Mueller](http://service.c-major.de/) * eShop version: 6.2.10
@@ -74,16 +75,21 @@ Thanks for sharing your translation :)
 
 == Upgrade Notice ==
 
-First release. If you have your own translation installed in /eshop-languages/ please back it up before upgrading. Then, if your own translation is better/newer than the one inlcuded in this plugin, please consider sharing yours...
- 
+Added Chinese translation. Be aware that personalised/modified translations will be overwritten on upgrade! 
 
 == Changelog ==
+
+= 0.4 =
+
+Date: 2013-11-04
+
+* New: Chinese translation
 
 = 0.3 =
 
 Date: 2013-05-17
 
-* New Turkish translation
+* New: Turkish translation
 * Updated Dutch translation
 * Updated source POT file
 * Added PO files
